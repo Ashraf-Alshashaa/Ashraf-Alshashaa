@@ -9,14 +9,21 @@
 ## About me:
 #### I have loved working from an early age. I have always worked alongside my school/study, which has given me experience in various fields of work. As a result, I learn quickly, adapt easily, and constantly focus on further development.
 
-## Some of my Github stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight)
-<img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=default"/> 
 ---
 
+## Some of my Github stats:
 
+<img  align="left" width= 47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=compact" />
+<img  align="left" width= 47% src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" />
+<a href="https://bit.ly/Ashraf-Alshashaa-html-css">
+  <img align="left" width= 47% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=HYF-Module-HTMLCSSGIT" />
+</a>
+<a href="bit.ly/Ashraf-Alshashaa-js">
+  <img aalign="left" width= 47% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=HYF-Module-javaScript" />
+</a>
 
+---
 
-You can find me on: [<img height=20px src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraf-alshashaa-2ba453186//)  OR [<img height=20px src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashraf13795)  
+You can find me on: [<img height=20px src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraf-alshashaa-2ba453186//)  OR [<img height=20px src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashraf13795)
+
 ---

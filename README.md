@@ -12,18 +12,19 @@
 ---
 
 ## Some of my Github stats:
-
-<img  align="left" width= 47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=compact" />
-<img  align="left" width= 47% src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" />
+<a href="https://github.com/Ashraf-Alshashaa">
+<img  align="left" width= 47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=compact" /></a>
+<a href="https://github.com/Ashraf-Alshashaa">
+<img  align="left" width= 47% src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" /></a>
 <a href="https://bit.ly/Ashraf-Alshashaa-html-css">
   <img align="left" width= 47% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=HYF-Module-HTMLCSSGIT" />
 </a>
-<a href="bit.ly/Ashraf-Alshashaa-js">
+<a href="https://bit.ly/Ashraf-Alshashaa-js">
   <img aalign="left" width= 47% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=HYF-Module-javaScript" />
 </a>
 
 ---
 
-You can find me on: [<img height=20px src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraf-alshashaa-2ba453186//)  OR [<img height=20px src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashraf13795)
+You can find me on: [<img height=20px src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://bit.ly/Ashraf-LinkedIn)  OR [<img height=20px src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://bit.ly/Ashraf-Facebook)
 
 ---

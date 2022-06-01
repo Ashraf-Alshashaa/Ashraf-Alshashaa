@@ -2,7 +2,7 @@
 
 <h3 align="center"> student at HackYourFuture</h3>
 
-<p align="center">
+<p align="center" padding-bottom="0px">
   
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   
@@ -12,7 +12,7 @@
   
 </p>
 
-<img align="center" src="https://github.com/Ashraf-Alshashaa/Ashraf-Alshashaa/blob/main/html-css-readme.png?raw=true">
+<img align="center" src="https://github.com/Ashraf-Alshashaa/Ashraf-Alshashaa/blob/main/html-css-readme.png">
 
 <h2> About me:</h2>
 

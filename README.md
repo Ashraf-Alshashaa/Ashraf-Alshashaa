@@ -12,7 +12,7 @@
   
 </p>
 
-<img align="center" src="https://github.com/Ashraf-Alshashaa/Ashraf-Alshashaa/blob/main/html-css-readme.png">
+<img align="center" src="https://github.com/Ashraf-Alshashaa/Ashraf-Alshashaa/blob/main/github profile.png">
 
 <h2> About me:</h2>
 

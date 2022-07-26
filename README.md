@@ -25,20 +25,20 @@
 
 <p align="center">
   
-  <a href="https://github.com/Ashraf-Alshashaa/Homework-class38">
-    <img  align="left" width= 47% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=Homework-class38"/>
+  <a href="https://github.com/Ashraf-Ashashaa/github-readme-stats">
+    <img  align="center" width= 45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=compact"/>
   </a>
   
   <a href="https://github.com/Ashraf-Alshashaa">
-    <img width= 47% src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" />
+    <img align="center" width= 53% src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" />
   </a>
   
-  <a href="https://bit.ly/Ashraf-Alshashaa-html-css">
-    <img align="left" width= 47% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=HYF-Module-HTMLCSSGIT" />
+  <a href="https://github.com/Ashraf-Alshashaa/API-Project">
+    <img  width= 49% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=API-Project" />
   </a>
   
   <a href="https://bit.ly/browsers-project38">
-    <img aalign="left" width= 47% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=browsers-project38" />
+    <img  width= 49% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=browsers-project38" />
   </a>
   
 </p>

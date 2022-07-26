@@ -1,3 +1,6 @@
+<img align="center" src="https://github.com/Ashraf-Alshashaa/Ashraf-Alshashaa/blob/main/github profile.png">
+
+
 <h1 align="center"> Hi there 👋 I'm Ashraf</h1>
 
 <h3 align="center"> student at HackYourFuture</h3>
@@ -12,7 +15,6 @@
   
 </p>
 
-<img align="center" src="https://github.com/Ashraf-Alshashaa/Ashraf-Alshashaa/blob/main/github profile.png">
 
 <h2> About me:</h2>
 

@@ -1,11 +1,9 @@
 <img align="center" src="https://github.com/Ashraf-Alshashaa/Ashraf-Alshashaa/blob/main/github profile.png">
-
-
 <h1 align="center"> Hi there 👋 I'm Ashraf</h1>
-
 <h3 align="center"> student at HackYourFuture</h3>
 
-<p align="center" padding-bottom="0px">
+<p align="center">
+
   
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   

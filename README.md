@@ -33,8 +33,8 @@
     <img align="center" width= 53% src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" />
   </a>
   
-  <a href="https://github.com/Ashraf-Alshashaa/API-Project">
-    <img  width= 49% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=API-Project" />
+  <a href="https://github.com/Ashraf-Alshashaa/My-Phone">
+    <img  width= 49% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=My-Phone" />
   </a>
   
   <a href="https://bit.ly/browsers-project38">

@@ -37,20 +37,21 @@
 <p align="center">
   
   <a href="https://github.com/Ashraf-Ashashaa/github-readme-stats">
-    <img  align="center" width= 45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=compact"/>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=compact"/>
   </a>
   
-  <a href="https://github.com/Ashraf-Alshashaa">
-    <img align="center" width= 53% src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" />
+  <a href="https://github.com/Ashraf-Alshashaa" height="200">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" />
   </a>
   
+  <!-- 
   <a href="https://github.com/Ashraf-Alshashaa/My-Phone">
-    <img  width= 49% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=My-Phone" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=My-Phone" />
   </a>
   
   <a href="https://github.com/Ashraf-Alshashaa/Hommy-Food">
-    <img  width= 49% src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=Hommy-Food" />
-  </a>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-Alshashaa&repo=Hommy-Food" />
+  </a>  -->
   
 </p>
 
@@ -59,10 +60,10 @@
 <p >
   <h2 align="center" >You can find me on
   <a href="https://bit.ly/Ashraf-LinkedIn">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>
   </a> 
   <a href="https://bit.ly/Ashraf-Facebook">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>
+    <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='20'>
   </a>
     </h2>
   

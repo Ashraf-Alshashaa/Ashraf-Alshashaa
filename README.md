@@ -37,11 +37,11 @@
 <p align="center">
   
   <a href="https://github.com/Ashraf-Ashashaa/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=compact"/>
+    <img height="200" width=40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=compact"/>
   </a>
   
   <a href="https://github.com/Ashraf-Alshashaa" height="200">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" />
+    <img height="200" width="55%" align="center" src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&hide=stars&bg_color=light" />
   </a>
   
   <!-- 

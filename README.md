@@ -27,7 +27,7 @@ Passionate web app developer merging technical expertise with a human-centered t
 
 <p align="center">
   <a href="https://github.com/Ashraf-Ashashaa/github-readme-stats">
-    <img height="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=donut-vertical"/>
+    <img height="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alshashaa&layout=donut-vertical"/>
   </a>
   <a href="https://github.com/Ashraf-Alshashaa" height="200">
     <img height="" width="" align="center" src="https://github-readme-stats.vercel.app/api/?username=Ashraf-Alshashaa&show_icons=true&theme=tokyonight&bg_color=light&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />

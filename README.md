@@ -19,7 +19,11 @@
 
 ## About me:
 
-Passionate web app developer merging technical expertise with a human-centered touch. I aspire to contribute to projects that transcend code, creating positive user experiences. Uniquely blending coding skills with a narrative-driven approach, I am dedicated to shaping impactful web applications.
+Full-stack web developer with a background in law, based in the Netherlands and originally from Syria. My journey blends comprehensive web development studies with valuable trade experience, enabling me to successfully complete several web projects web development projects across various industries. I have a proven track record of enhancing user engagement and improving conversion rates, consistently delivering high-quality results that align with client expectations.
+
+As a seasoned web developer with a creative touch, I bring a unique perspective to my work, drawing inspiration from my background as a former dubber. I am passionate about web development and eager to contribute my skills to meaningful projects that make a positive impact.
+
+Let's connect and explore how I can enhance your team with my expertise in web development, creative problem-solving, and ability to deliver results.
 
 ---
 

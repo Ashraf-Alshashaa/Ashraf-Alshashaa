@@ -16,7 +16,6 @@
 ---
 
 <h1 align="center"> Hi there 👋 I'm Ashraf Full-stack developer</h1>
-<h3 align="center"> Software Engineer Assistant in <a href="https://www.linkedin.com/company/invisiblefoods/"> Invisible Foods</a> </h3>
 
 ## About me:
 

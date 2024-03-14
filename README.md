@@ -16,11 +16,11 @@
 ---
 
 <h1 align="center"> Hi there 👋 I'm Ashraf</h1>
-<h3 align="center">I'm Ashraf Full-stack developer</h3>
+<h3 align="center">Full-stack Web Developer</h3>
 
 ## About me:
 
-Full-stack web developer with a background in law, based in the Netherlands and originally from Syria. My journey blends comprehensive web development studies with valuable trade experience, enabling me to successfully complete several web projects web development projects across various industries. I have a proven track record of enhancing user engagement and improving conversion rates, consistently delivering high-quality results that align with client expectations.
+Full-stack web Developer with a background in law, based in the Netherlands and originally from Syria. My journey blends comprehensive web development studies with valuable trade experience, enabling me to successfully complete several web projects web development projects across various industries. I have a proven track record of enhancing user engagement and improving conversion rates, consistently delivering high-quality results that align with client expectations.
 
 As a seasoned web developer with a creative touch, I bring a unique perspective to my work, drawing inspiration from my background as a former dubber. I am passionate about web development and eager to contribute my skills to meaningful projects that make a positive impact.
 

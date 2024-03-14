@@ -15,7 +15,8 @@
 
 ---
 
-<h1 align="center"> Hi there 👋 I'm Ashraf Full-stack developer</h1>
+<h1 align="center"> Hi there 👋 I'm Ashraf</h1>
+<h3 align="center">I'm Ashraf Full-stack developer</h3>
 
 ## About me:
 

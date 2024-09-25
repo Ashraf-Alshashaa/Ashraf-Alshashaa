@@ -1,34 +1,75 @@
-![javascript](https://camo.githubusercontent.com/dc9450fb8d40c110f245200f5dadff7551cb6cff83250579789bb997dacf987d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a61766153637269707426636f6c6f723d323232323232266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d463744463145266c6162656c3d)
-![typescript](https://camo.githubusercontent.com/24b0d1d27328350850b6e714691d2339b4c4c54451d519e5ede3a74d66e6ec06/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5479706553637269707426636f6c6f723d333137384336266c6f676f3d54797065536372697074266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![python](https://camo.githubusercontent.com/83f28bdf9b2f1bac2f94c51c1fd1e2bcc290c4c35101c813c0a94e3e5fd2acdb/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d507974686f6e26636f6c6f723d333737364142266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![html](https://camo.githubusercontent.com/830abe9a9f6a6b6d33bca330c069362c88809342ebb9772c1a36a13484a12b46/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![css](https://camo.githubusercontent.com/a4f8f0ad3d6651da4445f8317ed7c4219d2dc446b749162ec610c2db36685bb7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4353533326636f6c6f723d313537324236266c6f676f3d43535333266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![react](https://camo.githubusercontent.com/e95e1cbdf8a6d197063c7e8765a79deb9b853081012d6e892adb6ac2c364397c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d526561637426636f6c6f723d323232323232266c6f676f3d5265616374266c6f676f436f6c6f723d363144414642266c6162656c3d)
-![angular](https://camo.githubusercontent.com/fc9f148ef8356645a60bc80e93b7050b3049b58215696928b303fd1dce2f4d77/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416e67756c617226636f6c6f723d304630463131266c6f676f3d416e67756c6172266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![mysql](https://camo.githubusercontent.com/43cb8083b53aaf9847087cc27dcc556a66b7b1f32ca77c3091aed2e3f9c2c277/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d7953514c26636f6c6f723d343437394131266c6f676f3d4d7953514c266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![sqlite](https://camo.githubusercontent.com/5a9c92fdc2a1a0141a60db6189a74b4d6e7d18f2b0f9971e81bd5d1ecb1d7f61/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d53514c69746526636f6c6f723d303033423537266c6f676f3d53514c697465266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![mongodb](https://camo.githubusercontent.com/57336fa2867efa094d65d48d3122413cf1aca60e77c77ebad92705a98d29f249/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6f6e676f444226636f6c6f723d343741323438266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![node](https://camo.githubusercontent.com/85cba226a1290d078f1a437aa87cb872a5bdb30037fa96b8afcddf163cd5b328/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6f64652e6a7326636f6c6f723d333339393333266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![express](https://camo.githubusercontent.com/dd688eaaa262ca0022a159962f55bfd35cababef5df983fb2b3c136e62256b5e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4578707265737326636f6c6f723d303030303030266c6f676f3d45787072657373266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![flask](https://camo.githubusercontent.com/2daf2beddaad1107e2473d14a594cd1d0cfb7a2c1c14d6a618da0242fdb1c4ff/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d466c61736b26636f6c6f723d303030303030266c6f676f3d466c61736b266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![redux](https://camo.githubusercontent.com/5ad4694f1a8658b0f758fd7a396bb1e78126329e6cc9c44bb3300eb407212b9a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d526564757826636f6c6f723d373634414243266c6f676f3d5265647578266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
----
+<h1 align="center"> Hi there 👋 I'm Ashraf  </h1> 
+<p align="center">Front-end Web Developer</p>
 
-<h1 align="center"> Hi there 👋 I'm Ashraf</h1>
-<h3 align="center">Full-stack Web Developer</h3>
+<br/>
 
-## About me:
+<h2 align="center">About me:</h2>
 
-Full-stack web Developer with a background in law, based in the Netherlands and originally from Syria. My journey blends comprehensive web development studies with valuable trade experience, enabling me to successfully complete several web projects web development projects across various industries. I have a proven track record of enhancing user engagement and improving conversion rates, consistently delivering high-quality results that align with client expectations.
+<p>
+I’m a front-end web developer with a strong foundation in web technologies and a diverse background. Based in the Netherlands and originally from Syria, I’ve combined my studies in web development with hands-on experience across multiple industries. This journey has allowed me to build several projects that have enhanced user experiences and boosted engagement, delivering quality results that align with client needs.
+
+With a passion for creativity and problem-solving, I draw on my unique past as a former dubber to bring a fresh perspective to web development. My primary focus is on front-end technologies, though I also have full-stack capabilities. I’m always eager to contribute to meaningful projects and collaborate with dynamic teams.
+
+Let’s connect and explore how my skills in web development, user interface design, and creative problem-solving can enhance your next project!
 
 As a seasoned web developer with a creative touch, I bring a unique perspective to my work, drawing inspiration from my background as a former dubber. I am passionate about web development and eager to contribute my skills to meaningful projects that make a positive impact.
 
 Let's connect and explore how I can enhance your team with my expertise in web development, creative problem-solving, and ability to deliver results.
+</p>
 
----
+<br/>
 
-## Some of my Github stats:
+
+<h2 align="center">Skills and Technologies:</h2>
+
+<p align="center"> Programming Languages:</p>
+
+<p align="center">
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/javascript.svg" alt="javascript" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/typescript.svg" alt="typescript" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/python.svg" alt="python" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/html.svg" alt="html" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/css.svg" alt="css" />
+</p>
+
+<br/>
+
+<p align="center"> Frontend Frameworks & Libraries:</p>
+
+<p align="center">
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/react.svg" alt="react" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/redux.svg" alt="redux" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/mui.svg" alt="mui" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/bootstrap.svg" alt="bootstrap" />
+</p>
+
+<br/>
+
+<p align="center"> Backend Technologies (for full-stack projects):</p>
+
+<p align="center">
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/node.svg" alt="node" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/express.svg" alt="express" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/flask.svg" alt="flask" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/django.svg" alt="django" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/docker.svg" alt="docker" />
+</p>
+
+<br/>
+
+<p align="center"> Databases:</p>
+
+<p align="center">
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/mysql.svg" alt="mysql" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/sqlite.svg" alt="sqlite" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/sqlalchemy.svg" alt="sqlalchemy" />
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/mongo-db.svg" alt="mongodb" />
+</p>
+
+<br/>
+
+<h2 align="center">GitHub Stats:</h2>
 
 <p align="center">
   <a href="https://github.com/Ashraf-Ashashaa/github-readme-stats">
@@ -39,8 +80,9 @@ Let's connect and explore how I can enhance your team with my expertise in web d
   </a>
 </p>
 
----
+<br/>
 
-## You can find me on:
-
-  [![LinkedIn](https://camo.githubusercontent.com/570a0fd895c1f854918833cb7c2d16d6284e1613b5590f14c3146308df512391/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.linkedin.com/in/ashraf-alshashaa/)
+<h2 align="center">Let's Connect:</h2>
+<p align="center">
+  <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/linkedin.svg" alt="LinkedIn" />
+</p>

@@ -23,7 +23,7 @@ Let's connect and explore how I can enhance your team with my expertise in web d
 
 <h2 align="center">Skills and Technologies</h2>
 
-<p align="center"> Programming Languages:</p>
+<p align="center"> Programming Languages</p>
 
 <p align="center">
   <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/javascript.svg" alt="javascript" />
@@ -35,7 +35,7 @@ Let's connect and explore how I can enhance your team with my expertise in web d
 
 <br/>
 
-<p align="center"> Frontend Frameworks & Libraries:</p>
+<p align="center"> Frontend Frameworks & Libraries</p>
 
 <p align="center">
   <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/react.svg" alt="react" />

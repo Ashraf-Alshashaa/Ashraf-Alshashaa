@@ -1,13 +1,13 @@
 
 <h1 align="center"> Hi there 👋 I'm Ashraf  </h1> 
-<p align="center">Front-end Web Developer</p>
+<p align="center">Full-stack Web Developer</p>
 
 <br/>
 
 <h2 align="center">About me:</h2>
 
 <p>
-I’m a front-end web developer with a strong foundation in web technologies and a diverse background. Based in the Netherlands and originally from Syria, I’ve combined my studies in web development with hands-on experience across multiple industries. This journey has allowed me to build several projects that have enhanced user experiences and boosted engagement, delivering quality results that align with client needs.
+ I am a full-stack web developer with a passion for front-end development. Based in the Netherlands and originally from Syria, I’ve combined my studies in web development with hands-on experience across multiple industries. This journey has allowed me to build several projects that have enhanced user experiences and boosted engagement, delivering quality results that align with client needs.
 
 With a passion for creativity and problem-solving, I draw on my unique past as a former dubber to bring a fresh perspective to web development. My primary focus is on front-end technologies, though I also have full-stack capabilities. I’m always eager to contribute to meaningful projects and collaborate with dynamic teams.
 

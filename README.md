@@ -4,7 +4,7 @@
 
 <br/>
 
-<h2 align="center">About me:</h2>
+<h2 align="center">About me</h2>
 
 <p>
  I am a full-stack web developer with a passion for front-end development. Based in the Netherlands and originally from Syria, I’ve combined my studies in web development with hands-on experience across multiple industries. This journey has allowed me to build several projects that have enhanced user experiences and boosted engagement, delivering quality results that align with client needs.
@@ -21,7 +21,7 @@ Let's connect and explore how I can enhance your team with my expertise in web d
 <br/>
 
 
-<h2 align="center">Skills and Technologies:</h2>
+<h2 align="center">Skills and Technologies</h2>
 
 <p align="center"> Programming Languages:</p>
 
@@ -46,7 +46,7 @@ Let's connect and explore how I can enhance your team with my expertise in web d
 
 <br/>
 
-<p align="center"> Backend Technologies (for full-stack projects):</p>
+<p align="center"> Backend Technologies (for full-stack projects)</p>
 
 <p align="center">
   <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/node.svg" alt="node" />
@@ -58,7 +58,7 @@ Let's connect and explore how I can enhance your team with my expertise in web d
 
 <br/>
 
-<p align="center"> Databases:</p>
+<p align="center"> Databases</p>
 
 <p align="center">
   <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/mysql.svg" alt="mysql" />
@@ -69,7 +69,7 @@ Let's connect and explore how I can enhance your team with my expertise in web d
 
 <br/>
 
-<h2 align="center">GitHub Stats:</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/Ashraf-Ashashaa/github-readme-stats">
@@ -82,7 +82,7 @@ Let's connect and explore how I can enhance your team with my expertise in web d
 
 <br/>
 
-<h2 align="center">Let's Connect:</h2>
+<h2 align="center">Let's Connect</h2>
 <p align="center">
   <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/linkedin.svg" alt="LinkedIn" />
 </p>

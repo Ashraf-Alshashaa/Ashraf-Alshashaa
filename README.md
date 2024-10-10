@@ -84,7 +84,7 @@ Let's connect and explore how I can enhance your team with my expertise in web d
 
 <h2 align="center">Let's Connect</h2>
 <p align="center">
- <a href="https://www.linkedin.com/in/ashraf-alshashaa/" taget="_blank">
+ <a href="https://www.linkedin.com/in/ashraf-alshashaa/" taget="blank">
   <img src="https://github.com/Ashraf-Alshashaa/icons/blob/main/linkedin.svg" alt="LinkedIn" />
  </a>
 </p>
